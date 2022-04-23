@@ -2,11 +2,11 @@
 
 namespace CabInvoiceGenerator
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Cab Invoice Generator Problem!");
         }
     }
 }
